@@ -4,3 +4,5 @@ si pulsas 1 lanzarás la bola, y aleatoriamente te dará uno de los valores entr
 cuente el doble (en cada tirada tienes una probabilidad de perder la bola y que la partida acabe).
 si pulsas 2 la partida acabará y te mostrará la puntuación realizada y la tirada más alta.
 si la partida acaba, ya sea por que lo selecciona el usuario o por que la bola se pierda, siempre te mostrará la puntuación y la tirada mas alta.
+
+No lo he hecho más complejo por que estoy de finales :P , se te quiere tellez.
