@@ -1,5 +1,12 @@
 package operators;
 
+/**
+ * 
+ * Class that contains the constant variables of the application
+ * 
+ * @author jjimemon
+ *
+ */
 public class Valores {
 
 	/** Variable declarations */

@@ -19,14 +19,19 @@ public class FPDual {
 
 	public static void main(String[] args) {
 
+		// Llamamiento al método estático operatorsChallenge.
 		operatorsChallenge();
 
 	}
 
+	/**
+	 * Method that initializes the application.
+	 */
+
 	private static void operatorsChallenge() {
 
+		// entre los "" puedes poner el nombre del jugador.
 		Pinball.playerCreate("").startMatch();
-		
-		
+
 	}
 }
